@@ -12,7 +12,7 @@ export default function ComingSoon() {
         <h3 className="text-2xl font-bold p-4 text-center md:text-left">
           Coming soon
         </h3>
-        <div className="md:flex justify-around  md:flex-row items-center">
+        <div className="flex md:justify-around justify-center flex-col md:flex-row items-center">
           <div className="space-y-4">
             <div className="relative">
               <img

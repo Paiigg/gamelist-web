@@ -13,32 +13,3 @@ body {
   overflow-x: hidden;
 
 }
-.slick-slider {
-  width: 100%;
-  overflow: hidden;
-}
-
-.slick-list {
-  position: relative;
-  display: block !important;
-  width: 100%;
-}
-
-.slick-slide div {
-  width: auto;
-  margin-right: 5px;
-  margin-left: 5px;
-}
-
-.slick-prev,
-.slick-next {
-  z-index: 999 !important;
-}
-
-.slick-prev {
-  left: 25px !important;
-}
-
-.slick-next {
-  right: 25px !important;
-}
