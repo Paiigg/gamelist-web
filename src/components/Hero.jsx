@@ -4,7 +4,7 @@ import Banner from "../assets/banner.svg";
 const Hero = () => {
   return (
     <div className="">
-      <img src={Banner} alt="" className="md:w-full object-cover h-screen" />
+      <img src={Banner} alt="" className="w-full object-cover h-screen" />
       <div className="absolute text-white md:w-[40%] px-4 top-[50%] translate-y-[-50%] left-[5%]  ">
         <div className="flex flex-col gap-4 text-center md:text-left">
           <h1 className="text-5xl font-bold">Multi Versus</h1>

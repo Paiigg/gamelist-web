@@ -21,7 +21,7 @@ export default function ComingSoon() {
                 className="w-[400px] md:w-[100%] p-4 md:p-0"
               />
               <div className="absolute bottom-7 left-7 space-y-5 ">
-                <p className="text-3xl w-[400px] font-semibold ">
+                <p className="md:text-3xl md:w-[400px] w-[150px]  text-md font-semibold ">
                   Call of Duty®: Modern Warfare® II
                 </p>
                 <button className="border border-white px-4 rounded-md py-2 hover:bg-primary hover:border-primary ease-in duration-500">
@@ -36,7 +36,7 @@ export default function ComingSoon() {
                 className="w-[400px] md:w-[100%] p-4 md:p-0"
               />
               <div className="absolute bottom-7 left-7 space-y-5 ">
-                <p className="text-3xl w-[400px] font-semibold">
+                <p className="md:text-3xl text-md md:w-[400px] w-[150px] font-semibold">
                   Call of Duty®: Modern Warfare® II
                 </p>
                 <button className="border border-white px-4 rounded-md py-2  hover:bg-primary hover:border-primary ease-in duration-500">
@@ -53,7 +53,7 @@ export default function ComingSoon() {
                 className="w-[400px] md:w-[100%] p-4 md:p-0"
               />
               <div className="absolute bottom-7 left-7 space-y-5 ">
-                <p className="text-3xl w-[200px] font-semibold">
+                <p className="md:text-3xl md:w-[200px] w-[100px] text-md font-semibold">
                   EA SPORTS™ FIFA 23
                 </p>
                 <button className="border border-white px-4 rounded-md py-2  hover:bg-primary hover:border-primary ease-in duration-500">
@@ -68,7 +68,7 @@ export default function ComingSoon() {
                 className="w-[400px] md:w-[100%] p-4 md:p-0"
               />
               <div className="absolute bottom-7 left-7 space-y-5 ">
-                <p className="text-3xl w-[300px] font-semibold">
+                <p className="md:text-3xl md:w-[300px] w-[100px] font-semibold">
                   Resident Evil 4 - Remake
                 </p>
                 <button className="border border-white px-4 rounded-md py-2  hover:bg-primary hover:border-primary ease-in duration-500">
@@ -83,7 +83,7 @@ export default function ComingSoon() {
                 className="w-[400px] md:w-[100%] p-4 md:p-0"
               />
               <div className="absolute bottom-7 left-7 space-y-5 ">
-                <p className="text-3xl w-[300px] font-semibold ">
+                <p className="md:text-3xl md:w-[300px] w-[100px] text-md font-semibold ">
                   ALIEN - Dark Descent
                 </p>
                 <button className="border border-white px-4 rounded-md py-2  hover:bg-primary hover:border-primary ease-in duration-500">

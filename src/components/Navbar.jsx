@@ -23,8 +23,8 @@ const Navbar = () => {
     <nav
       className={
         colorChange
-          ? "fixed z-20 w-full bg-white m-auto py-4 px-4 shadow-lg"
-          : "fixed z-20 w-full bg-transparent  m-auto py-4 px-4"
+          ? "fixed z-20 w-full bg-white mx-auto py-4 px-4 shadow-lg "
+          : "fixed z-20 w-full bg-transparent  mx-auto py-4 px-4"
       }
     >
       <div className="flex items-center justify-between ">
@@ -75,8 +75,8 @@ const Navbar = () => {
         <div
           className={
             nav
-              ? "absolute top-[70px] right-[40px] bg-black text-white shadow-lg p-4 ease-in duration-500 "
-              : "absolute top-[70px] right-[-100%]"
+              ? "absolute top-[70px] right-[40px] bg-black text-white shadow-lg p-4 ease-in duration-500"
+              : "absolute top-[70px] right-[-100%] "
           }
         >
           <ul className="flex flex-col gap-4 text-center md:hidden ">
